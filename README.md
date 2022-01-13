@@ -13,3 +13,9 @@ This is portfolio to a few of my HTML and CSS Projects. I plan to improve these 
 
     CSS Practice
     This is a project I was working on to practice using CSS
+
+    TicTacToe Project
+    This is a project to create Tic Tac Toe
+
+    Calculator
+    This is a project to create Calculations
